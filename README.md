@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Chebet M.
 
-## 💻 Software Developer | AI & Data Science Enthusiast | Java & Python Builder
+## 💻 Software Developer | AI & Data Science Engineer  | Java & Python Builder
 
-I am a passionate software developer focused on building real-world systems using **Java, Python, and Machine Learning**. I enjoy creating intelligent applications that combine **backend engineering + AI models + data-driven solutions**.
+I am a passionate ai/machine learning engineer and a  software developer focused on building real-world systems using **Java, Python, and Machine Learning**. I enjoy creating intelligent applications that combine **backend engineering + AI models + data-driven solutions**.
 
 ---
 
