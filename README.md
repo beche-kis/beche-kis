@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Chebet M.
 
-## 💻 Software Developer | AI & Data Science Engineer  | Java & Python Builder
+## 💻 AI & Data Science Engineer  |Python Builder
 
-I am a passionate ai/machine learning engineer and a  software developer focused on building real-world systems using **Java, Python, and Machine Learning**. I enjoy creating intelligent applications that combine **backend engineering + AI models + data-driven solutions**.
+I am a passionate ai/machine learning engineer and a  software developer focused on building real-world systems using 
+**Python, and Machine Learning**. I enjoy creating intelligent applications that combine **backend engineering + AI models + data-driven solutions**.
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on AI + Java project-based learning
+- 🔭 I’m currently working on AI + python project-based learning
 - 🌱 Learning Machine Learning, Data Science, and Spring Boot
 - 🤖 Interested in AI systems like prediction models and automation tools
 - 💡 Passionate about solving real-world problems using technology
@@ -17,18 +18,14 @@ I am a passionate ai/machine learning engineer and a  software developer focused
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-- Java (OOP, Spring Boot, Backend Development)
-- Python (Data Science, Machine Learning)
+### 💻 Programming Language
+- Python (Data Science, Machine Learning,bbackend)
 
 ### 📊 Data Science & AI
 - Pandas, NumPy
 - Scikit-learn
 - Data Visualization (Matplotlib)
 
-### 🗄️ Databases
-- MySQL
-- SQL (Data querying and analysis)
 
 ### 🌐 Tools & Technologies
 - Git & GitHub
@@ -39,21 +36,9 @@ I am a passionate ai/machine learning engineer and a  software developer focused
 ---
 
 ## 📌 Current Focus
-I am currently building **project-based AI + Java systems**, focusing on:
+I am currently building **project-based AI + python systems**, focusing on:
 - Machine Learning models (prediction & classification)
-- Java backend systems using Spring Boot
 - Connecting AI models to real applications using APIs
-
----
-
-## 🧠 Projects (Coming Soon / In Progress)
-
-- 🏦 Personal Finance Tracker (Java)
-- 📚 Library Management System (Java + SQL)
-- 📊 Data Analysis Dashboard (Python)
-- 🏠 House Price Prediction Model (ML)
-- 🚨 Predictive Maintenance System (AI + Java Integration)
-- 🌾 Smart Agriculture AI System (Final Project)
 
 
 ---
