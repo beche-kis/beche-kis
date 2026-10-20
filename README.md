@@ -9,7 +9,7 @@ I am a passionate ai/machine learning engineer and a  software developer focused
 
 ## 🚀 About Me
 - 🔭 I’m currently working on AI + python project-based learning
-- 🌱 Learning Machine Learning, Data Science, and Spring Boot
+- 🌱 Learning Machine Learning, Data Science
 - 🤖 Interested in AI systems like prediction models and automation tools
 - 💡 Passionate about solving real-world problems using technology
 - 🎯 Goal: Become an AI Software Engineer / Machine Learning Engineer
